@@ -1,0 +1,9 @@
+{
+    "name": "try-mongoose",
+    "description": "I want to try something in mongoosejs",
+    "version": "0.0.1",
+    "author": "Amp Tanawat",
+    "dependencies": {
+        "mongoose": "latest"
+    }
+}
